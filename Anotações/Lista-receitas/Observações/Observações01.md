@@ -1,0 +1,2 @@
+**Como eu disse no inicio, não tenho muita experiência em programação**
+*Mas esse pouco que fiz, nesse bootcamp, consegui entender mais do que eu achava, no começo era mais teórica, depois foi se aprofundando mais na prática, comecei no "Flowgorithm", depois fui para o "Portugol", agora já passei pela fase de se aprofundar no github, mas valeu a pena*
